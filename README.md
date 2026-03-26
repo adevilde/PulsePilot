@@ -4,6 +4,8 @@ PulsePilot is a preventive health application that turns wearable data into acti
 
 It analyzes signals such as heart rate, heart rate variability (HRV), sleep, activity, and strain, compares them to a personal baseline, and highlights meaningful changes with clear explanations and recommended actions.
 
+![PulsePilot Demo](./assets/demo.gif)
+
 ## Features
 
 - Upload wearable data as CSV
